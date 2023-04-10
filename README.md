@@ -3,7 +3,7 @@
 
 * 核心知识：DFS、递归、贪心、STL（优先队列）
 * 初赛：25/651 复赛：12/32  
-   
+
 初赛  
 
 任务：  
@@ -27,6 +27,9 @@
 
 ![image](https://github.com/XkdZy/Code-Craft-2023-/blob/main/image/sort.png)   
 
+* 控制策略（开环控制）  
+
+* 防碰撞（针对两机器人正面撞击情况）  
 
 复赛  
 
