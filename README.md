@@ -7,6 +7,7 @@
 快速开始  
 ----------------------------
 * 测试环境：Windows10、VS2019
+* [视频](https://github.com/XkdZy/Code-Craft-2023-/blob/main/image/video.mp4)
 * 1、克隆./demo文件夹到本地
 * 2、双击运行./demo/demo.bat文件
 
